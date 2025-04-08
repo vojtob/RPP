@@ -1,0 +1,106 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.1.1 Chrome/132.0.6834.210 Electron/34.3.3 Safari/537.36" version="26.1.1">
+  <diagram name="Page-1" id="6Q60ImkG8j0B7nlpk25j">
+    <mxGraphModel dx="2074" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="66kbTh9GGbufl-clK2ou-62" value="RKO" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=grouping;archiType=square;dashed=1;fillColor=#D2D7D7;fontFamily=Helvetica;fontSize=13;labelBackgroundColor=none;horizontal=1;align=center;verticalAlign=middle;strokeColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="280" y="1130" width="420" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="66kbTh9GGbufl-clK2ou-63" value="◄ poskytuje službu" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=bottom;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=none;" parent="1" source="66kbTh9GGbufl-clK2ou-64" target="66kbTh9GGbufl-clK2ou-69" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="66kbTh9GGbufl-clK2ou-64" value="Poskytovateľ služby" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#9997F7;shape=mxgraph.archimate3.application;appType=role;archiType=oct;strokeColor=#000000;spacingTop=8;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="660" y="910" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="66kbTh9GGbufl-clK2ou-66" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;entryX=1;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="66kbTh9GGbufl-clK2ou-62" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="1090" as="sourcePoint" />
+            <mxPoint x="710" y="1165" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="1110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="66kbTh9GGbufl-clK2ou-67" value="Chcem poskytovať proaktívne smart služby pre svojich klientov" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#9997F7;shape=mxgraph.archimate3.application;appType=driver;archiType=oct;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="660" y="1010" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="66kbTh9GGbufl-clK2ou-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=none;" parent="1" source="66kbTh9GGbufl-clK2ou-69" target="66kbTh9GGbufl-clK2ou-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="66kbTh9GGbufl-clK2ou-69" value="&lt;div&gt;Občan&lt;/div&gt;Dotknutá osoba" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#9997F7;shape=mxgraph.archimate3.application;appType=role;archiType=oct;strokeColor=#000000;spacingTop=10;verticalAlign=top;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="910" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="66kbTh9GGbufl-clK2ou-70" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;elbow=vertical;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="66kbTh9GGbufl-clK2ou-64" target="66kbTh9GGbufl-clK2ou-67" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="880" y="1260" as="sourcePoint" />
+            <mxPoint x="1040" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="66kbTh9GGbufl-clK2ou-71" value="Je možné jednoducho a bezpečne overiť oprávnenie prístupu k údajom dotknutej osoby za účelom poskytnutia služby" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#9997F7;shape=mxgraph.archimate3.application;appType=requirement;archiType=oct;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="300" y="1150" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="66kbTh9GGbufl-clK2ou-72" value="Je možné jednoducho a bezpečne overiť oprávnenie vykonať úkon za dotknutú osoby za účelom poskytnutia služby" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#9997F7;shape=mxgraph.archimate3.application;appType=requirement;archiType=oct;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="520" y="1150" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="66kbTh9GGbufl-clK2ou-73" value="" style="edgeStyle=elbowEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;" parent="1" source="66kbTh9GGbufl-clK2ou-74" target="66kbTh9GGbufl-clK2ou-78" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="66kbTh9GGbufl-clK2ou-74" value="Slovenská repulibka" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#9997F7;shape=mxgraph.archimate3.application;appType=role;archiType=oct;strokeColor=#000000;align=center;spacingLeft=0;verticalAlign=top;spacingTop=0;spacing=10;" parent="1" vertex="1">
+          <mxGeometry x="405" y="1530" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="66kbTh9GGbufl-clK2ou-75" value="Chcem bezpečne využívať smart služby verejnej správy aj komerčných subjektov" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#9997F7;shape=mxgraph.archimate3.application;appType=driver;archiType=oct;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="160" y="1010" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="66kbTh9GGbufl-clK2ou-76" style="edgeStyle=elbowEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;" parent="1" source="66kbTh9GGbufl-clK2ou-78" target="66kbTh9GGbufl-clK2ou-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="66kbTh9GGbufl-clK2ou-77" style="edgeStyle=elbowEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;" parent="1" source="66kbTh9GGbufl-clK2ou-78" target="66kbTh9GGbufl-clK2ou-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="66kbTh9GGbufl-clK2ou-78" value="Chcem aby občan mal k dispozícii proaktívne smart služby" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#9997F7;shape=mxgraph.archimate3.application;appType=driver;archiType=oct;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="405" y="1430" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="66kbTh9GGbufl-clK2ou-79" style="edgeStyle=elbowEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;" parent="1" source="66kbTh9GGbufl-clK2ou-80" target="66kbTh9GGbufl-clK2ou-75" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="66kbTh9GGbufl-clK2ou-80" value="Budem poskytovať proaktívne smart služby pre svojich klientov" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#9997F7;shape=mxgraph.archimate3.application;appType=goal;archiType=oct;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="160" y="1310" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="66kbTh9GGbufl-clK2ou-93" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;entryX=1;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="66kbTh9GGbufl-clK2ou-83" target="66kbTh9GGbufl-clK2ou-62" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="1235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="66kbTh9GGbufl-clK2ou-83" value="Vytvorím prostredie, ktoré umožňuje vznik proaktívnych, smart a bezpečných služieb komerčných poskytovateľov" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#9997F7;shape=mxgraph.archimate3.application;appType=goal;archiType=oct;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="660" y="1310" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="66kbTh9GGbufl-clK2ou-88" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWw6c3BhY2U9InByZXNlcnZlIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA0ODAgNjAwOyIgdmlld0JveD0iMCAwIDQ3OS45OTg5OTI5MTk5MjE5IDYwMCIgeT0iMHB4IiB4PSIwcHgiIGlkPSJDb0EiIHZlcnNpb249IjEuMSIgd2lkdGg9IjQ3OS45OTg5OTI5MTk5MjE5IiBoZWlnaHQ9IjYwMCI+JiN4YTs8c3R5bGUgdHlwZT0idGV4dC9jc3MiPiYjeGE7CS5zdDB7ZmlsbDojRUUxQzI1O30mI3hhOwkuc3Qxe2ZpbGw6I0ZGRkZGRjt9JiN4YTsJLnN0MntmaWxsOiMwQjRFQTI7fSYjeGE7PC9zdHlsZT4mI3hhOzxwYXRoIGQ9Ik0yMzkuOTk3LDYwMEMxNDEuMjQ5LDU1Mi40NjcsMCw0NTguMTI0LDAsMjcxLjQ5OFM4LjkyOCwwLDguOTI4LDBoMjMxLjA2OGgyMzEuMDcyJiMxMDsmIzk7YzAsMCw4LjkzMSw4NC44NzMsOC45MzEsMjcxLjQ5OFMzMzguNzUxLDU1Mi40NjcsMjM5Ljk5Nyw2MDB6IiBjbGFzcz0ic3QwIiBpZD0iU2hpZWxkXzFfIi8+JiN4YTs8cGF0aCBkPSJNMjYxLjEwMiwzNjkuMzU0VjI2Ni4yNzVjMzAuMTA5LTAuMzgyLDgyLjY5LTAuMDg1LDEyNS4yNywxNC4xNjNjMCwwLTEuMjI2LTE2LjYxLTEuMjI2LTM1Ljk2NCYjMTA7JiM5O2MwLTE5LjM1LDEuMjI2LTM1Ljk2MSwxLjIyNi0zNS45NjFjLTQ2LjQyLDE1LjUzMy05OC41NTEsMTQuNDg2LTEyNS4yNywxNC4wNTV2LTY0LjczNWMyNC4zNTMtMC4yMTYsNTkuNDQ3LDAuOTQ3LDk5LjEyNiwxNC4yMjUmIzEwOyYjOTtjMCwwLTEuMjI2LTE2LjYxMS0xLjIyNi0zNS45NjRjMC0xOS4zNTEsMS4yMjYtMzUuOTYyLDEuMjI2LTM1Ljk2MmMtMzkuNjIxLDEzLjI1Ny03NC42NzEsMTQuNDM4LTk5LjAxOCwxNC4yMjcmIzEwOyYjOTtjMS4yNTEtNDAuOTkxLDEzLjE5My05Mi42NiwxMy4xOTMtOTIuNjZTMjQ5LjgyNSwyMy42MTYsMjQwLDIzLjYxNnMtMzQuNDAzLTEuOTE4LTM0LjQwMy0xLjkxOHMxMS45NDMsNTEuNjY5LDEzLjE5Myw5Mi42NiYjMTA7JiM5O2MtMjQuMzQ2LDAuMjExLTU5LjM5Ny0wLjk3MS05OS4wMTgtMTQuMjI3YzAsMCwxLjIyNiwxNi42MTEsMS4yMjYsMzUuOTYyYzAsMTkuMzUzLTEuMjI2LDM1Ljk2NC0xLjIyNiwzNS45NjQmIzEwOyYjOTtjMzkuNjc5LTEzLjI3OCw3NC43NzMtMTQuNDQxLDk5LjEyNi0xNC4yMjV2NjQuNzM1Yy0yNi43MiwwLjQzMi03OC44NSwxLjQ3OC0xMjUuMjctMTQuMDU1YzAsMCwxLjIyNiwxNi42MTEsMS4yMjYsMzUuOTYxJiMxMDsmIzk7YzAsMTkuMzU1LTEuMjI2LDM1Ljk2NC0xLjIyNiwzNS45NjRjNDIuNTgtMTQuMjQ4LDk1LjE2MS0xNC41NDUsMTI1LjI3LTE0LjE2M3YxMDMuMDc4aDQyLjIwNFYzNjkuMzU0eiIgY2xhc3M9InN0MSIgaWQ9IkNyb3NzIi8+JiN4YTs8cGF0aCBkPSJNNDMyLjI0OSw0NDEuNTUxYy0xMi44NS0yMi42MjQtMzMuMTA1LTQ3LjEyOC02MC41NzgtNDcuMTI4Yy00MC41NSwwLTU1LjM0OSwzMi42OTItNTUuMzQ5LDMyLjY5MiYjMTA7JiM5O1MyODkuNjk5LDM1OC4yMDIsMjQwLDM1OC4yMDJzLTc2LjMyMiw2OC45MTQtNzYuMzIyLDY4LjkxNHMtMTQuNzk5LTMyLjY5Mi01NS4zNDktMzIuNjkyYy0yNy40NzMsMC00Ny43MjgsMjQuNTA0LTYwLjU3OCw0Ny4xMjgmIzEwOyYjOTtDOTcuNzAzLDUyMC45MDIsMTc3LjM4NSw1NjkuODY1LDIzOS45OTYsNjAwQzMwMi42MTEsNTY5Ljg2NSwzODIuMjk2LDUyMC45MDIsNDMyLjI0OSw0NDEuNTUxeiIgY2xhc3M9InN0MiIgaWQ9IlBlYWtzIi8+JiN4YTs8L3N2Zz4=;" parent="1" vertex="1">
+          <mxGeometry x="474" y="1567" width="24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="66kbTh9GGbufl-clK2ou-90" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="725" y="952" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="66kbTh9GGbufl-clK2ou-91" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;++&lt;/font&gt;" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=0;dashed=1;dashPattern=6 4;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="66kbTh9GGbufl-clK2ou-83" target="66kbTh9GGbufl-clK2ou-80" edge="1">
+          <mxGeometry x="0.9286" y="10" relative="1" as="geometry">
+            <mxPoint x="370" y="1340" as="sourcePoint" />
+            <mxPoint x="530" y="1340" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="66kbTh9GGbufl-clK2ou-92" style="edgeStyle=elbowEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;" parent="1" source="66kbTh9GGbufl-clK2ou-80" target="66kbTh9GGbufl-clK2ou-62" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="1255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kEumDC3M5W9X83xalPgd-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWw6c3BhY2U9InByZXNlcnZlIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAyNTUgMjU1OyIgdmlld0JveD0iMjQuNDU2NTQ0ODc2MDk4NjMzIDM0Ljc5OTk4Nzc5Mjk2ODc1IDIwNi4xNDQyNDEzMzMwMDc4IDE4NS4yOTk5NzI1MzQxNzk3IiB5PSIwcHgiIHg9IjBweCIgaWQ9IkxheWVyXzEiIHZlcnNpb249IjEuMSIgd2lkdGg9IjIwNi4xNDQyNDEzMzMwMDc4IiBoZWlnaHQ9IjE4NS4yOTk5NzI1MzQxNzk3Ij4mI3hhOzxwYXRoIGQ9Ik0yMzAuNSwyMTQuMmMwLDAtNS4xLTI2LjgtOC00MS41Yy0yLjMtMTEuNy0xNy40LTIxLjQtNDQuOC0yOVYxMzJjNS4xLTUuNCwxMC4zLTExLjQsMTIuOC0xNy4zYzEuMS0wLjEsMi0wLjUsMi41LTAuOCYjMTA7JiM5O2MyLjMtMS4yLDQtMy40LDQuNS02YzAuMi0wLjcsMC44LTMuMSwxLjYtNS44YzItNywyLjctOS42LDIuOS0xMC44YzAtMC40LDAuMS0wLjgsMC4xLTEuMmMwLTQuNC0yLjUtOC4yLTYuMi0xMHYtNS40JiMxMDsmIzk7YzAtMjItMTcuOS0zOS45LTM5LjktMzkuOWMtMTMuNiwwLTI2LjEsNy4xLTMzLjQsMTguMmMtNy44LTguNC0xOS0xMy43LTMxLjMtMTMuN2MtMjMuNiwwLTQyLjksMTkuMi00Mi45LDQyLjkmIzEwOyYjOTtjMCwzLjMsMC40LDYuNywxLjEsOS42YzEuOSwxMi4zLDAuOCwyMi44LTMuMSwyOC4yYy0xLjUsMi4xLTEuMiw0LjksMC43LDYuNmM2LjQsNS45LDEzLjksMTAuNCwyMi4yLDEzLjN2MTAuNyYjMTA7JiM5O2MtMTEuOCwyLjQtMjYuNyw2LjYtMzcuNSwxMy41Yy0xLjMsMC44LTIuMSwyLjItMi4zLDMuN2wtNSw0Ni43Yy0wLjIsMS40LDAuMywyLjgsMS4zLDMuOWMwLjksMS4xLDIuMywxLjcsMy43LDEuN2gxMTguNmg1aDcyLjcmIzEwOyYjOTtjMS41LDAsMi45LTAuNywzLjktMS44QzIzMC40LDIxNy4xLDIzMC44LDIxNS42LDIzMC41LDIxNC4yeiBNMTMzLjYsMTMyLjFsMC40LDEyLjRjLTgsMi43LTEzLjgsNS42LTE2LjYsNy4yJiMxMDsmIzk7Yy0xLjUtMC4zLTIuOS0wLjYtNC4zLTAuOVYxNDBjNi43LTIuNCwxMi45LTUuOCwxOC40LTEwLjFDMTMyLjMsMTMwLjcsMTMzLDEzMS40LDEzMy42LDEzMi4xeiBNMzkuMSwxNzEuNSYjMTA7JiM5O2MxMC42LTYuMSwyNS4yLTkuNywzNi0xMS43YzIuNC0wLjQsNC4xLTIuNSw0LjEtNC45di0xOC41YzAtMi4yLTEuNS00LjItMy42LTQuOGMtNy0yLTEzLjMtNS4yLTE4LjgtOS42YzQuOS0xMC4yLDMuOC0yMy45LDIuNS0zMiYjMTA7JiM5O2MtMC42LTIuNi0wLjktNS4yLTAuOS03LjdjMC0xOC4xLDE0LjctMzIuOSwzMi45LTMyLjljMTEuNywwLDIyLDYuMSwyNy44LDE1LjRjMC4xLDAuMiwwLjIsMC40LDAuNCwwLjZjMyw0LjksNC43LDEwLjcsNC43LDE2LjkmIzEwOyYjOTtjMCwyLjUtMC4zLDUtMSw4Yy0xLjIsNy45LTIuMSwyMS42LDIuNSwzMS43Yy01LjUsNC40LTExLjgsNy42LTE4LjgsOS42Yy0yLjEsMC42LTMuNiwyLjYtMy42LDQuOHYxOC41YzAsMi40LDEuNyw0LjUsNC4xLDQuOSYjMTA7JiM5O2MxMC43LDIsMjUuNCw1LjYsMzYsMTEuN2w0LjEsMzguN0gzNC45TDM5LjEsMTcxLjV6IE0xNTcuNCwyMTAuMWwtNC41LTQyLjJjLTAuMi0xLjUtMS0yLjktMi4zLTMuN2MtNS40LTMuNC0xMS44LTYuMi0xOC40LTguNCYjMTA7JiM5O2MyLjUtMSw1LjMtMiw4LjQtMi45YzIuMi0wLjYsMy43LTIuNywzLjYtNWwtMC43LTE4LjFjMC0xLjItMC41LTIuNC0xLjQtMy4zYy0yLjEtMi4yLTQuNC00LjYtNi41LTcuMWMtMC4xLTAuMS0wLjItMC4yLTAuMy0wLjMmIzEwOyYjOTtjLTMuMy01LjUtNC4yLTE1LjQtMi41LTI3YzAuOC0zLjMsMS4yLTYuNiwxLjItOS45YzAtNy4zLTEuOC0xNC4yLTUuMS0yMC4yYzQuOS0xMC4zLDE1LjUtMTcuMSwyNy0xNy4xYzE2LjUsMCwyOS45LDEzLjQsMjkuOSwyOS45JiMxMDsmIzk7Vjg0YzAsMi44LDIuMiw1LDUsNWMwLjcsMCwxLjIsMC41LDEuMiwxLjJjLTAuMiwxLTEuNyw2LjItMi41LDkuM2MtMC41LDEuOS0xLDMuNi0xLjQsNC44Yy0xLjItMC4zLTIuNS0wLjItMy42LDAuNCYjMTA7JiM5O2MtMS40LDAuOC0yLjQsMi4yLTIuNiwzLjhjLTAuNyw1LjQtOC45LDE0LTEyLjgsMTguMWMtMC45LDAuOS0xLjQsMi4yLTEuNCwzLjV2MTcuNGMwLDIuMywxLjUsNC4zLDMuNyw0LjgmIzEwOyYjOTtjMjQsNi4yLDM5LjgsMTQuOCw0MS4zLDIyLjNjMi4xLDEwLjQsNS4yLDI2LjgsNi45LDM1LjZIMTU3LjR6Ii8+JiN4YTs8L3N2Zz4=;" vertex="1" parent="1">
+          <mxGeometry x="223.32" y="955" width="33.37" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

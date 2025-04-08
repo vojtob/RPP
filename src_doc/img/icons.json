@@ -1,0 +1,26 @@
+[
+    { "fileName": "RKO/Domain.png", "corner": 17, "icons": [
+        { "rec":  1, "x": "center", "y": "bottom", "size":  40, "iconName": "zzResources/ikony_asseco/central_admin.svg"},
+        { "rec":  2, "x": "center", "y": "bottom", "size":  50, "iconName": "zzResources/ikony02/folders_512x512/folders_512x512-39.png"},
+        { "rec":  3, "x": "center", "y": "bottom", "size":  50, "iconName": "zzResources/ikony02/database_512x512/database_512x512-01.png"},
+        { "rec":  4, "x": "center", "y": 0.80, "size":  40, "iconName": "zzResources/ikony02/hardware_512x512/hardware_512x512-21.png"},
+        { "rec":  5, "x": "center", "y": 0.80, "size":  40, "iconName": "zzResources/ikony02/user_interface_512x512/user_interface_512x512-17.png"},
+        { "rec":  6, "x": "center", "y": 0.80, "size":  60, "iconName": "zzResources/ikony02/hardware_512x512/hardware_512x512-07_rotated.png"},
+        { "rec":  7, "x": "center", "y": 0.65, "size":  70, "iconName": "zzResources/ikony02/security_512x512/security_512x512-09.png"},
+        { "rec":  8, "x": "center", "y": "bottom", "size":  35, "iconName": "zzResources/ikony_asseco/social_insur.svg"},
+        { "rec":  9, "x": "center", "y": "bottom", "size":  35, "iconName": "zzResources/ikony_asseco/user_admin.svg"},
+        { "rec": 10, "x": "center", "y": "bottom", "size":  50, "iconName": "zzResources/ikony02/database_512x512/database_512x512-01.png"}
+    ]},
+    { "fileName": "RKO/Motivacia.png", "corner": 17, "icons": [
+        { "rec":  1, "x": "center", "y": "bottom", "size":  35, "iconName": "zzResources/ikony_asseco/social_insur.svg"},
+        { "rec":  2, "x": "center", "y": 0.80, "size":  80, "iconName": "zzResources/ikony02/hardware_512x512/hardware_512x512-07_rotated.png"},
+        { "rec": 10, "x": "center", "y": 0.80, "size":  30, "iconName": "zzResources/SR/Coat_of_arms_of_Slovakia.svg"}
+    ]},
+    { "fileName": "RKO/AppOverview.png", "corner": 17, "gap" : 10, "icons": [
+        { "rec": 18, "x": "center", "y": 0.75, "size":  120, "iconName": "zzResources/ikony02/cloud_512x512/cloud_512x512-17.png"},
+        { "rec": 19, "x": "center", "y": 0.75, "size":  120, "iconName": "zzResources/ikony02/cloud_512x512/cloud_512x512-08.png"}
+    ]},
+    { "fileName": "RKO/RegKomp_BA.png", "corner": 17, "gap" : 10, "icons": [
+        { "rec":  2, "x": "center", "y": "bottom", "size":  70, "iconName": "zzResources/ikony02/folders_512x512/folders_512x512-39.png"}
+    ]}
+]

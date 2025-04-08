@@ -1,0 +1,34 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="j5hZJTxDQeNvyBJZ4xVc">
+    <mxGraphModel dx="2068" dy="1234" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hB63PjV7OjoRcowemufh-1" value="Zdroj oprávnenia&amp;nbsp;&lt;div&gt;vykonať činnosť&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=grouping;archiType=square;dashed=1;fillColor=#D2D7D7;verticalAlign=top;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="861" y="40" width="200" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="hB63PjV7OjoRcowemufh-37" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;REZA&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Register Zastupování&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-indent: -0.38in; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); vertical-align: baseline;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; text-indent: -36.48px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#66CCFF;shape=mxgraph.archimate3.application;appType=comp;archiType=square;verticalAlign=top;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="100" y="240" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hB63PjV7OjoRcowemufh-41" value="&lt;font face=&quot;Aptos, sans-serif&quot;&gt;REZA je postavená na šablónach. To znamená, že nie je možné zadať akékoľvek zastupovanie, ale iba to na ktoré je definovaná šablóna?&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Aptos, sans-serif&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="130" y="70" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hB63PjV7OjoRcowemufh-42" value="Zákon&lt;div&gt;(vymedzuje kto čo môže,&lt;/div&gt;&lt;div&gt;OVM, rodič, konateľ, ...)&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFF323;shape=mxgraph.archimate3.application;appType=passive;archiType=square;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="880.0026315789473" y="90" width="158.42105263157893" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hB63PjV7OjoRcowemufh-43" value="Rozhodnutie&lt;div&gt;(svojprávnosť-opatrovníctvo, insolvencia, ...)&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFF323;shape=mxgraph.archimate3.application;appType=passive;archiType=square;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="880.0026315789473" y="160" width="158.42105263157893" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hB63PjV7OjoRcowemufh-44" value="Súhlas s poskytnutím údajov" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFF323;shape=mxgraph.archimate3.application;appType=passive;archiType=square;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="880.0026315789473" y="230" width="158.42105263157893" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iv6szVx4WTPXD9R7225q-1" value="Zastupovanie" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFF323;shape=mxgraph.archimate3.application;appType=passive;archiType=square;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="880.0026315789473" y="299.99619047619046" width="158.42105263157893" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iv6szVx4WTPXD9R7225q-2" value="Aktuálny stav:&amp;nbsp; CSRU pre zdieľanie údajov medzi OVM, UPVS pre konateľov" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="110" width="590" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,1 @@
+@call python %DOCOOL_HOME%\image_converting\src\ic.py %1 %2 %3 %4 %5

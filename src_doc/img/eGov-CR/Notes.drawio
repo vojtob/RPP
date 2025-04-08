@@ -1,0 +1,16 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.1.1 Chrome/132.0.6834.210 Electron/34.3.3 Safari/537.36" version="26.1.1">
+  <diagram name="Page-1" id="lZYqAILXVvTEXmGwN9Lh">
+    <mxGraphModel dx="905" dy="1197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NmF83PURxLmJxaCh90rW-1" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;SPUÚ - Soukromoprávní&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;uživatel údajů&lt;/span&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;verticalAlign=top;container=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="40" width="210" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="NmF83PURxLmJxaCh90rW-2" value="Soukromoprávním uživatelem údajů se rozumí podnikající fyzická osoba nebo právnická osoba, která &lt;b&gt;není orgánem veřejné moci &lt;/b&gt;a je podle jiného právního předpisu &lt;b&gt;oprávněna využívat údaje &lt;/b&gt;ze základního registru nebo z agendového informačního systému" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="NmF83PURxLmJxaCh90rW-1">
+          <mxGeometry y="50.58352941176471" width="210" height="129.41176470588235" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
