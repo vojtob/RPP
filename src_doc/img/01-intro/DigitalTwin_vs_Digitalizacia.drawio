@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Mj89tKXQSyuhwqXj9ipI-14" value="&lt;b&gt;Informačné technológie vo verejnej správe&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;95/2019&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=grouping;archiType=square;dashed=1;fillColor=#D2D7D7;verticalAlign=top;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="400" y="960" width="240" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="Mj89tKXQSyuhwqXj9ipI-8" value="&lt;b&gt;Centrálne integračné komponenty&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;305/2013&lt;/div&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=grouping;archiType=square;dashed=1;fillColor=#D2D7D7;verticalAlign=top;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="780" y="960" width="240" height="430" as="geometry" />
+        </mxCell>
         <mxCell id="nRFMR0SAhJJAzwHKPwyQ-186" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;RKO ako digitálne dvojča legislatívy&lt;/b&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;Agendy, činnosti, povinné osoby, objekty evidencie a vzťahy medzi nimi&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;(celá legislatíva)&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=grouping;archiType=square;dashed=1;fillColor=#D2D7D7;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;verticalAlign=top;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="80" y="540" width="400" height="350" as="geometry" />
         </mxCell>
@@ -255,6 +261,57 @@
         </mxCell>
         <mxCell id="nRFMR0SAhJJAzwHKPwyQ-187" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;Informačné technológie vo verejnej správe&lt;/b&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;Koncové služby, orgány riadenia, informačné systémy, aplikačné služby, údaje, integrácie, identifikácia, autentifikácia, autorizácia, ...&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;(305/2013, 95/2019, ...)&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=grouping;archiType=square;dashed=1;fillColor=#D2D7D7;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;verticalAlign=top;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="560" y="540" width="400" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Mj89tKXQSyuhwqXj9ipI-1" value="Legislativa" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFF323;shape=mxgraph.archimate3.application;appType=contract;archiType=square;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-400" y="1040" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mj89tKXQSyuhwqXj9ipI-2" value="Register kompetencií" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#66CCFF;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="1040" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mj89tKXQSyuhwqXj9ipI-3" value="Register oprávnení" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#66CCFF;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="1160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mj89tKXQSyuhwqXj9ipI-7" value="CMÚ" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#66CCFF;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="81" y="1240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mj89tKXQSyuhwqXj9ipI-5" value="CSRU" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFFFF;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=#000000;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="800" y="1030" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PhzSfmGoKHry_nglsGGV-2" value="&lt;span style=&quot;&quot;&gt;+ automatizácia overenia oprávnenia&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#007B28;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;align=left;strokeColor=#000000;fontColor=#FFFFFF;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="810" y="1070" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b4YsowTs5IO4OCW3UgzT-1" value="OverSi" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFFFF;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=#000000;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1150" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="b4YsowTs5IO4OCW3UgzT-2" value="&lt;span style=&quot;&quot;&gt;+ automatizácia overenia oprávnenia&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#007B28;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;align=left;strokeColor=#000000;fontColor=#FFFFFF;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1190" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b4YsowTs5IO4OCW3UgzT-3" value="CAMP" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFFFF;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=#000000;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1270" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="b4YsowTs5IO4OCW3UgzT-4" value="&lt;span style=&quot;&quot;&gt;+ automatizácia overenia oprávnenia&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#007B28;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;align=left;strokeColor=#000000;fontColor=#FFFFFF;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1310" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b4YsowTs5IO4OCW3UgzT-5" value="" style="group;fillColor=#00AEE8;strokeColor=#000000;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="420" y="1040" width="200" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Mj89tKXQSyuhwqXj9ipI-4" value="&lt;b&gt;MetaIS&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;podľa 95/2019 §3c obsahom MetaIS sú&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;najmä technologické, administratívne a organizačné údaje o prevádzkovaných informačných technológiách verejnej správy,&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFFFF;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=#000000;verticalAlign=top;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1040" width="200" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Mj89tKXQSyuhwqXj9ipI-21" value="~ orgán riadenia, správca IS ...&lt;div&gt;by sa mali mapovať na OVM definované v RKO&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FF9800;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;align=left;strokeColor=#000000;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="430" y="1280" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Mj89tKXQSyuhwqXj9ipI-22" value="- biznis vrstva: definácia&amp;nbsp; koncových službieb, agend, úsekov, ..." style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#D32300;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;align=left;strokeColor=#000000;fontColor=#FFFFFF;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="430" y="1160" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Mj89tKXQSyuhwqXj9ipI-23" value="+ RUN informácie o IS, AS,&amp;nbsp;&lt;div&gt;KS, SLA, ..., napr. URL služby&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#007B28;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;align=left;strokeColor=#000000;fontColor=#FFFFFF;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="430" y="1220" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b4YsowTs5IO4OCW3UgzT-6" value="MOU" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFFFF;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=#000000;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1470" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="b4YsowTs5IO4OCW3UgzT-7" value="&lt;span style=&quot;&quot;&gt;+ udelenie súhlasu na prístup&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;k oprávneniu (napr. nemusí si každý vedieť overiť, kto je koho poručník&lt;/span&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#007B28;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;align=left;strokeColor=#000000;fontColor=#FFFFFF;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1510" width="180" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
