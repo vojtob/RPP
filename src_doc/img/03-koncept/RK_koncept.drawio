@@ -1,0 +1,154 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2707" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="pZyWZQW2qTMGdB6Wqupj-29" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;OVM&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFF323;shape=mxgraph.archimate3.application;appType=actor;archiType=square;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-360" y="860" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QYbwdpBH74K5H6EEjUDd-59" value="&lt;span&gt;Agenda&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFF323;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;strokeColor=#000000;verticalAlign=top;fontStyle=1;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-160" y="1000" width="400" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="QYbwdpBH74K5H6EEjUDd-35" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Oprávnenie&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Oprávnenie pre OVM v&lt;/span&gt;&lt;span style=&quot;background-color: transparent; text-align: center;&quot;&gt;&amp;nbsp;d&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;anej roli využívať údaje alebo žiadať o úkony v tejto agende&lt;/span&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFF323;shape=mxgraph.archimate3.application;appType=role;archiType=square;strokeColor=#000000;verticalAlign=top;align=center;spacingLeft=4;spacingRight=4;spacing=2;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="280" y="1280" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pZyWZQW2qTMGdB6Wqupj-0" value="&lt;b&gt;Rola&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;definuje s jemnejšou granularitou pôsobnosť a&amp;nbsp;oprávnenia&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFF323;shape=mxgraph.archimate3.application;appType=role;archiType=square;strokeColor=#000000;verticalAlign=top;align=center;spacingLeft=4;spacingRight=4;spacing=2;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="60" y="1140" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pZyWZQW2qTMGdB6Wqupj-3" value="&lt;b&gt;Kompetencia&lt;/b&gt;&lt;div&gt;&lt;b&gt;Pôsobnosť&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Definuje činnosť a údaje, ktorú OVM v danej roli vykonáva, jeho kompetencie a pôsobnosť&lt;/div&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFF323;shape=mxgraph.archimate3.application;appType=role;archiType=square;strokeColor=#000000;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;spacing=2;spacingLeft=4;spacingRight=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-40" y="840" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pZyWZQW2qTMGdB6Wqupj-5" value="&lt;b&gt;Garant&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Garantuje výkon agendy, zodpovedá za ňu, definuje činnosti, ...&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFF323;shape=mxgraph.archimate3.application;appType=role;archiType=square;strokeColor=#000000;verticalAlign=top;align=center;spacingLeft=4;spacingRight=4;spacing=2;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-360" y="1060" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pZyWZQW2qTMGdB6Wqupj-7" value="" style="endArrow=block;html=1;endFill=1;startArrow=oval;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZyWZQW2qTMGdB6Wqupj-29" target="pZyWZQW2qTMGdB6Wqupj-5" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-280" y="1080" as="sourcePoint" />
+            <mxPoint x="-200" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QYbwdpBH74K5H6EEjUDd-61" value="&lt;b&gt;Činnosť Agendy&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;činnosti, ktoré sú v rámci agendy vykonávané&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFF323;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;strokeColor=#000000;verticalAlign=top;spacing=2;spacingLeft=4;spacingRight=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-140" y="1140" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QYbwdpBH74K5H6EEjUDd-65" value="&lt;b&gt;Objekt evidencie&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Aké objekty sa evidujú v&lt;/span&gt;&lt;span style=&quot;background-color: transparent; text-align: center;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;agende, napríklad auto&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFF323;shape=mxgraph.archimate3.application;appType=passive;archiType=square;strokeColor=#000000;verticalAlign=top;spacing=2;spacingLeft=4;spacingRight=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-140" y="1040" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LikNMIQY806UddBu3euc-11" value="&lt;b&gt;Údaj&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Aké údaje sa o objekte evidujú v agende, napríklad typ, rok výroby, ...&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFF323;shape=mxgraph.archimate3.application;appType=passive;archiType=square;strokeColor=#000000;verticalAlign=top;spacing=2;spacingLeft=4;spacingRight=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="60" y="1040" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LikNMIQY806UddBu3euc-12" value="" style="html=1;startArrow=diamondThin;startFill=1;startSize=10;endArrow=none;endFill=0;rounded=0;strokeColor=#000000;edgeStyle=elbowEdgeStyle;horizontal=1;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QYbwdpBH74K5H6EEjUDd-65" target="LikNMIQY806UddBu3euc-11" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-55" y="1228.5" as="sourcePoint" />
+            <mxPoint x="150" y="1448.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LikNMIQY806UddBu3euc-13" value="1..*" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="LikNMIQY806UddBu3euc-12" vertex="1" connectable="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZyWZQW2qTMGdB6Wqupj-9" value="" style="endArrow=block;html=1;endFill=1;startArrow=oval;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZyWZQW2qTMGdB6Wqupj-5" target="QYbwdpBH74K5H6EEjUDd-59" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-390" y="1147" as="sourcePoint" />
+            <mxPoint x="-350" y="1147" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZyWZQW2qTMGdB6Wqupj-11" value="" style="endArrow=block;html=1;endFill=1;startArrow=oval;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZyWZQW2qTMGdB6Wqupj-29" target="pZyWZQW2qTMGdB6Wqupj-3" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-80" y="900" as="sourcePoint" />
+            <mxPoint x="-330" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZyWZQW2qTMGdB6Wqupj-12" value="" style="endArrow=block;html=1;endFill=1;startArrow=oval;startFill=1;edgeStyle=elbowEdgeStyle;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZyWZQW2qTMGdB6Wqupj-3" target="QYbwdpBH74K5H6EEjUDd-59" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="60" y="810" as="sourcePoint" />
+            <mxPoint x="60" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZyWZQW2qTMGdB6Wqupj-15" value="&lt;b&gt;IS VS&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;IS v ktorom OVM spravuje údaje, vykonáva svoju pôsobnosť v danej agende&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#66CCFF;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=#000000;verticalAlign=top;spacingLeft=4;spacingRight=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="840" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pZyWZQW2qTMGdB6Wqupj-16" value="&lt;b&gt;Aplikačná služba&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;realizuje prístup k údajom a&amp;nbsp;službám agendy&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#66CCFF;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;strokeColor=#000000;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="1060" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pZyWZQW2qTMGdB6Wqupj-17" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;OVM&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFF323;shape=mxgraph.archimate3.application;appType=actor;archiType=square;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="80" y="1300" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pZyWZQW2qTMGdB6Wqupj-18" value="" style="endArrow=block;html=1;endFill=1;startArrow=oval;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZyWZQW2qTMGdB6Wqupj-17" target="QYbwdpBH74K5H6EEjUDd-35" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-30" y="1290" as="sourcePoint" />
+            <mxPoint x="-30" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZyWZQW2qTMGdB6Wqupj-19" value="&lt;b&gt;IS VS&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;IS ktorý OVM využíva na získavanie údajov a volanie služieb cudzej agendy&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#66CCFF;shape=mxgraph.archimate3.application;appType=comp;archiType=square;strokeColor=#000000;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="1280" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pZyWZQW2qTMGdB6Wqupj-20" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QYbwdpBH74K5H6EEjUDd-59" target="pZyWZQW2qTMGdB6Wqupj-26" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="490" y="1200" as="sourcePoint" />
+            <mxPoint x="330" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZyWZQW2qTMGdB6Wqupj-21" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZyWZQW2qTMGdB6Wqupj-15" target="pZyWZQW2qTMGdB6Wqupj-16" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="490" y="1130" as="sourcePoint" />
+            <mxPoint x="450" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZyWZQW2qTMGdB6Wqupj-22" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZyWZQW2qTMGdB6Wqupj-16" target="pZyWZQW2qTMGdB6Wqupj-19" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="520" y="1240" as="sourcePoint" />
+            <mxPoint x="680" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZyWZQW2qTMGdB6Wqupj-23" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=1;elbow=vertical;endFill=1;dashPattern=6 4;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZyWZQW2qTMGdB6Wqupj-3" target="pZyWZQW2qTMGdB6Wqupj-15" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="790" as="sourcePoint" />
+            <mxPoint x="330" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZyWZQW2qTMGdB6Wqupj-25" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZyWZQW2qTMGdB6Wqupj-19" target="QYbwdpBH74K5H6EEjUDd-35" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="180" y="1340" as="sourcePoint" />
+            <mxPoint x="270" y="1310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZyWZQW2qTMGdB6Wqupj-26" value="&lt;b&gt;Služba VS&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Služby verejnej správy v&amp;nbsp;rámci danej agendy predstavujú vonkajší pohľad na agendu&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFF323;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;strokeColor=#000000;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;fontFamily=Helvetica;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="280" y="1000" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pZyWZQW2qTMGdB6Wqupj-27" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZyWZQW2qTMGdB6Wqupj-16" target="pZyWZQW2qTMGdB6Wqupj-26" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="1240" as="sourcePoint" />
+            <mxPoint x="500" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZyWZQW2qTMGdB6Wqupj-31" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pZyWZQW2qTMGdB6Wqupj-26" target="QYbwdpBH74K5H6EEjUDd-35" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="570" y="1190" as="sourcePoint" />
+            <mxPoint x="570" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4UiOPjHDvXgqPQIrx2kC-0" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Občan / FO / PO&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFF323;shape=mxgraph.archimate3.application;appType=actor;archiType=square;strokeColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-360" y="1300" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4UiOPjHDvXgqPQIrx2kC-1" value="&lt;div&gt;&lt;b&gt;Životná situácia&lt;/b&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFF323;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;strokeColor=#000000;fontStyle=0;container=0;verticalAlign=top;spacing=5;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-160" y="1300" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4UiOPjHDvXgqPQIrx2kC-2" value="" style="endArrow=block;html=1;endFill=1;startArrow=oval;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4UiOPjHDvXgqPQIrx2kC-0" target="4UiOPjHDvXgqPQIrx2kC-1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-240" y="1250" as="sourcePoint" />
+            <mxPoint x="-80" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4UiOPjHDvXgqPQIrx2kC-3" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=0;elbow=vertical;endFill=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4UiOPjHDvXgqPQIrx2kC-1" target="pZyWZQW2qTMGdB6Wqupj-17" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-120" y="1270" as="sourcePoint" />
+            <mxPoint x="40" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

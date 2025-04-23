@@ -11,7 +11,10 @@
         { "rec":  9, "x": "center", "y": "bottom", "size":  35, "iconName": "zzResources/ikony_asseco/user_admin.svg"},
         { "rec": 10, "x": "center", "y": "bottom", "size":  50, "iconName": "zzResources/ikony02/database_512x512/database_512x512-01.png"}
     ]},
-    { "fileName": "RKO/Motivacia.png", "corner": 17, "icons": [
+    { "fileName": "RKO/01-Motivacia/Overview.png", "corner": 17, "icons": [
+        { "rec":  1, "x": "center", "y": "center", "size":  800, "iconName": "RPP/temp/img_all/01-intro/Legislativa_Osoba_Agenda_Udaje.png"}
+    ]},
+    { "fileName": "RKO/01-Motivacia/Motivacia.png", "corner": 17, "icons": [
         { "rec":  1, "x": "center", "y": "bottom", "size":  35, "iconName": "zzResources/ikony_asseco/social_insur.svg"},
         { "rec":  2, "x": "center", "y": 0.80, "size":  80, "iconName": "zzResources/ikony02/hardware_512x512/hardware_512x512-07_rotated.png"},
         { "rec": 10, "x": "center", "y": 0.80, "size":  30, "iconName": "zzResources/SR/Coat_of_arms_of_Slovakia.svg"}
