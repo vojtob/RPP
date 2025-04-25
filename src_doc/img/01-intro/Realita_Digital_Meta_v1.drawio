@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
   <diagram name="Page-1" id="kGzlTUpNQUmZDkRe_ut6">
-    <mxGraphModel dx="2068" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2307" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="v1EW0JT8d4S7AqYUZW40-17" value="Monitoring" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33CC66;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;strokeColor=#000000;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1030" y="1970" width="170" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="5Y0m7SEWrtOaW2OVviik-11" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Reály svet&lt;/b&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=grouping;archiType=square;dashed=1;fillColor=#D2D7D7;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;verticalAlign=top;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="5Y0m7SEWrtOaW2OVviik-11" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Reálny svet&lt;/b&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=grouping;archiType=square;dashed=1;fillColor=#D2D7D7;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;verticalAlign=top;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="40" y="1160" width="120" height="720" as="geometry" />
         </mxCell>
         <mxCell id="v1EW0JT8d4S7AqYUZW40-4" value="Právne predpisy" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#D2D7D7;shape=mxgraph.archimate3.application;appType=contract;archiType=square;verticalAlign=top;spacingTop=9;strokeColor=#000000;" parent="1" vertex="1">
@@ -172,7 +172,7 @@
         <mxCell id="v1EW0JT8d4S7AqYUZW40-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWw6c3BhY2U9InByZXNlcnZlIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAyNTUgMjU1OyIgdmlld0JveD0iNTkuMjk5OTk5MjM3MDYwNTUgNDYuMDk5OTk4NDc0MTIxMDk0IDEzNi4zMDAwMDMwNTE3NTc4IDE2Mi42OTk5ODE2ODk0NTMxMiIgeT0iMHB4IiB4PSIwcHgiIGlkPSJMYXllcl8xIiB2ZXJzaW9uPSIxLjEiIHdpZHRoPSIxMzYuMzAwMDAzMDUxNzU3OCIgaGVpZ2h0PSIxNjIuNjk5OTgxNjg5NDUzMTIiPiYjeGE7PHBhdGggZD0iTTE5Mi4zLDY4bC02My4xLTIxLjZjLTEuMS0wLjQtMi4yLTAuNC0zLjIsMEw2Mi43LDY4Yy0yLDAuNy0zLjQsMi42LTMuNCw0Ljd2NTQuMWMwLDYyLjksNjQuMiw4MS40LDY0LjksODEuNiYjMTA7JiM5O2MxLjEsMC4zLDIuMiwwLjQsMy4zLDAuNGMxLjEsMCwyLjItMC4xLDMuMy0wLjRjMC42LTAuMiw2NC44LTE4LjksNjQuOC04MS42VjcyLjhDMTk1LjYsNzAuNiwxOTQuMyw2OC43LDE5Mi4zLDY4eiBNNjkuNCw3Ni4zJiMxMDsmIzk7bDU4LjEtMTkuOWwzMi4xLDExbC04NS4yLDg1LjljLTMuMS03LjYtNS0xNi40LTUtMjYuNVY3Ni4zeiBNNzkuMiwxNjIuN2w5MS05MS43bDE1LjUsNS4zdjYuMWwtOTQuNCw5NS4yJiMxMDsmIzk7Qzg2LjgsMTczLjQsODIuNywxNjguNCw3OS4yLDE2Mi43eiBNMTI4LjEsMTk4LjhjLTAuNCwwLjEtMC45LDAuMS0xLjIsMGMtMC4zLTAuMS0xNC00LjItMjgtMTQuN2w4Ni44LTg3LjV2MzAuMyYjMTA7JiM5O0MxODUuNiwxODEuNywxMzAuNCwxOTguMSwxMjguMSwxOTguOHoiLz4mI3hhOzwvc3ZnPg==;" parent="1" vertex="1">
           <mxGeometry x="85" y="1460" width="30" height="35.96" as="geometry" />
         </mxCell>
-        <mxCell id="xFwcz_XSPE966e-ZJMYt-2" value="Stav služieb, SLA" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFFFF;shape=mxgraph.archimate3.application;appType=passive;archiType=square;verticalAlign=middle;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="xFwcz_XSPE966e-ZJMYt-2" value="Stav služieb, SLA" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFFFF;shape=mxgraph.archimate3.application;appType=passive;archiType=square;verticalAlign=middle;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1010" y="1420" width="180" height="50" as="geometry" />
         </mxCell>
       </root>

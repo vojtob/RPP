@@ -1,12 +1,41 @@
 [
-    { "fileName": "03-koncept/RK_koncept.png", "ext":"01-garant",
-        "polygon": {"opacity" : 20, "linecolor" : [102,204,255], "points":[[4, "TL"], [5, "TR"], [5, "BR"], [4, "BL"], [9, "BR"], [9, "BL"], [9, "TL"], [9, "TR"]]}
+    { "fileName": "01-intro/RKO_koncept.png", "ext":"01-legislativa",
+    "polygon": {"opacity" : 10, "linecolor" : [102,204,255], "points":[[1, "TL"], [1, "TR"], [1, "R", 14, "Y"], [1, "L", 14, "Y"]]}
+    },
+    { "fileName": "01-intro/RKO_koncept.png", "ext":"02-rozhodnutia",
+        "rect-area": {"opacity" : 10, "linecolor" : [102,204,255], "corners" : [1, 28]}
+    },
+    { "fileName": "01-intro/RKO_koncept.png", "ext":"03-registre",
+        "polygon": {"opacity" : 10, "linecolor" : [102,204,255], "points":[[1, "TL"], [1, "TR"], [28, "TR"], [29, "TR"], [29, "BR"], [28, "BL"]]}
+    },
+    { "fileName": "01-intro/RKO_koncept.png", "ext":"04-RK",
+        "polygon": {"opacity" : 10, "linecolor" : [102,204,255], "points":[[1, "TL"], [4, "TR"], [4, "BR"], [1, "BR"], [28, "TR"], [29, "TR"], [29, "BR"], [28, "BL"]]}
+    },
+    { "fileName": "01-intro/RKO_koncept.png", "ext":"05-RO",
+        "rect-area": {"opacity" : 10, "linecolor" : [102,204,255], "corners" : [1, 29]}
+    },
+    { "fileName": "01-intro/RKO_koncept.png", "ext":"06-RK-prinos1",
+        "polygon": {"opacity" : 10, "linecolor" : [102,204,255], "points":[[1, "TL"], [4, "TR"], [4, "R", 8, "T"], [10, "TR"], [10, "BR"], [8, "B", 8, "X"], [8, "X", 15, "T"], [15, "T", 1, "R"], [28, "BR"], [28, "BL"]]}
+    },
+    { "fileName": "01-intro/RKO_koncept.png", "ext":"07-RO-prinos1",
+        "polygon": {"opacity" : 10, "linecolor" : [102,204,255], "points":[[1, "TL"], [4, "TR"], [4, "R", 8, "T"], [10, "TR"], [10, "R", 12, "B"], [12, "B", 17, "R"], [17, "R", 29, "B"], [28, "BL"]]}
+    },
+    { "fileName": "01-intro/RKO_koncept.png", "ext":"08-RO-prinos2",
+        "polygon": {"opacity" : 10, "linecolor" : [102,204,255], "points":[[1, "TL"], [4, "TR"], [4, "R", 8, "T"], [10, "T", 44, "R"], [44, "R", 29, "B"], [28, "BL"]]}
+    },
+
+
+    { "fileName": "03-koncept/RK_koncept.png", "ext":"01-agenda",
+        "rect-area": {"opacity" : 20, "linecolor" : [102,204,255], "corners" : [1, 13]}
     },
     { "fileName": "03-koncept/RK_koncept.png", "ext":"02-posobnost",
-        "polygon": {"opacity" : 20, "linecolor" : [102,204,255], "points":[[1, "TR"], [1, "BR"], [5, "TR"], [5, "BR"], [4, "BL"], [9, "BR"], [9, "BL"], [3, "TL"]]}
+        "polygon": {"opacity" : 20, "linecolor" : [102,204,255], "points":[[7, "L", 1, "T"], [1, "TR"], [13, "BR"], [13, "BL"], [1, "BL"], [1, "B", 7, "L"]]}
     },
     { "fileName": "03-koncept/RK_koncept.png", "ext":"03-obcan",
-        "polygon": {"opacity" : 20, "linecolor" : [102,204,255], "points":[[1, "TR"], [1, "BR"], [5, "TR"], [13, "BR"], [15, "BL"], [3, "TL"]]}
+        "polygon": {"opacity" : 20, "linecolor" : [102,204,255], "points":[[7, "L", 1, "T"], [1, "TR"], [13, "BR"], [13, "BL"], [13, "L", 12, "B"], [11, "BL"]]}
+    },
+    { "fileName": "03-koncept/RK_koncept.png", "ext":"04-obcan-OVM",
+        "polygon": {"opacity" : 20, "linecolor" : [102,204,255], "points":[[7, "L", 1, "T"], [1, "TR"], [13, "BR"], [13, "B", 7, "L"]]}
     },
 
     { "fileName": "eGov-SK/metamodel_riadenie_AS_IS.png", "ext":"01-vedenie",
