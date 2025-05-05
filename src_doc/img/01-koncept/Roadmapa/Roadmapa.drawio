@@ -1,0 +1,196 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.15 Chrome/134.0.6998.205 Electron/35.2.1 Safari/537.36" version="26.2.15">
+  <diagram name="Page-1" id="Wwct--JLt1150eTaC7KP">
+    <mxGraphModel dx="2866" dy="2034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="O4QvcbaXDJt24IgseKl--7" value="&lt;span style=&quot;text-align: left;&quot;&gt;Rozvoj RKO&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFFFF;shape=mxgraph.archimate3.application;appType=plateau;strokeColor=#000000;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="-560" y="120" width="1640" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="O4QvcbaXDJt24IgseKl--5" value="&lt;span style=&quot;text-align: left;&quot;&gt;Benefity pre eGov&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFFFF;shape=mxgraph.archimate3.application;appType=plateau;strokeColor=#000000;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="-560" y="-120" width="1640" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="O4QvcbaXDJt24IgseKl--4" value="&lt;span style=&quot;text-align: left;&quot;&gt;RKO - Register kompetencií a oprávnení&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFFFF;shape=mxgraph.archimate3.application;appType=plateau;strokeColor=#000000;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="-560" y="-360" width="1640" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="bGCzDZgKwJ3272ucESbW-407" value="" style="edgeStyle=elbowEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;orthogonal=1;" parent="1" source="bGCzDZgKwJ3272ucESbW-377" target="bGCzDZgKwJ3272ucESbW-378" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="RK - DNR" Category="Analýza" Size="S" Benefit="S" Priorita="Must" Pozn="" placeholders="1" id="bGCzDZgKwJ3272ucESbW-377">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;" parent="1" vertex="1">
+            <mxGeometry x="-540" y="-320" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="bGCzDZgKwJ3272ucESbW-408" value="" style="edgeStyle=elbowEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;orthogonal=1;" parent="1" source="bGCzDZgKwJ3272ucESbW-378" target="bGCzDZgKwJ3272ucESbW-379" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="RK - matica kompetencií" Category="Implementácia" Size="M" Benefit="L" Priorita="Must" Pozn="" placeholders="1" id="bGCzDZgKwJ3272ucESbW-378">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;" parent="1" vertex="1">
+            <mxGeometry x="-350" y="-320" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="bGCzDZgKwJ3272ucESbW-409" value="" style="edgeStyle=elbowEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;orthogonal=1;" parent="1" source="bGCzDZgKwJ3272ucESbW-379" target="bGCzDZgKwJ3272ucESbW-380" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="RK - schvaľovací proces" Category="Implementácia" Size="M" Benefit="M" Priorita="Must" Pozn="" placeholders="1" id="bGCzDZgKwJ3272ucESbW-379">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;" parent="1" vertex="1">
+            <mxGeometry x="-160" y="-320" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="RK - Služby" Category="Implementácia" Size="L" Benefit="XL" Priorita="Must" Pozn="" placeholders="1" id="bGCzDZgKwJ3272ucESbW-380">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;" parent="1" vertex="1">
+            <mxGeometry x="30" y="-320" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="bGCzDZgKwJ3272ucESbW-410" value="" style="edgeStyle=elbowEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;orthogonal=1;" parent="1" source="bGCzDZgKwJ3272ucESbW-381" target="bGCzDZgKwJ3272ucESbW-382" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="RK - Nástroj na prípravu údajov" Category="Implementácia" Size="L" Benefit="L" Priorita="Should" Pozn="" placeholders="1" id="bGCzDZgKwJ3272ucESbW-381">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;" parent="1" vertex="1">
+            <mxGeometry x="280" y="-320" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="RK - Iniciálne naplnenie údajov a spustenie RK" Category="Prevádzkovanie PO" Size="L" Benefit="L" Priorita="Must" Pozn="" placeholders="1" id="bGCzDZgKwJ3272ucESbW-382">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;" parent="1" vertex="1">
+            <mxGeometry x="470" y="-320" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="RO - kompetencie" Category="Implementácia" Size="M" Benefit="XL" Priorita="Must" Pozn="" placeholders="1" id="bGCzDZgKwJ3272ucESbW-383">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;" parent="1" vertex="1">
+            <mxGeometry x="710" y="-320" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="RKO - referenčný" Category="" Size="XS" Benefit="XL" Priorita="" Pozn="" placeholders="1" id="bGCzDZgKwJ3272ucESbW-384">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;" parent="1" vertex="1">
+            <mxGeometry x="900" y="-320" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="bGCzDZgKwJ3272ucESbW-418" value="" style="edgeStyle=elbowEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;dashed=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" parent="1" source="bGCzDZgKwJ3272ucESbW-385" target="bGCzDZgKwJ3272ucESbW-386" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="RO - analýza možných otázok" Category="Analýza" Size="M" Benefit="M" Priorita="Could" Pozn="" placeholders="1" id="bGCzDZgKwJ3272ucESbW-385">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;verticalAlign=middle;" parent="1" vertex="1">
+            <mxGeometry x="-530" y="160" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="bGCzDZgKwJ3272ucESbW-411" value="" style="edgeStyle=elbowEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;dashed=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" parent="1" source="bGCzDZgKwJ3272ucESbW-386" target="bGCzDZgKwJ3272ucESbW-387" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="RO - analýza oprávnenia" Category="Analýza" Size="S" Benefit="M" Priorita="Could" Pozn="" placeholders="1" id="bGCzDZgKwJ3272ucESbW-386">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;verticalAlign=middle;" parent="1" vertex="1">
+            <mxGeometry x="-340" y="160" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="RO - implementácia oprávnenia" Category="Implementácia" Size="M" Benefit="L" Priorita="Could" Pozn="" placeholders="1" id="bGCzDZgKwJ3272ucESbW-387">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;verticalAlign=middle;" parent="1" vertex="1">
+            <mxGeometry x="-150" y="160" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="RO - nezáväzný automatický poradca" Category="Implementácia" Size="M" Benefit="M" Priorita="Could" Pozn="" placeholders="1" id="bGCzDZgKwJ3272ucESbW-388">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;verticalAlign=middle;" parent="1" vertex="1">
+            <mxGeometry x="90" y="160" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="RO - nástroj na analýzu procesu oprávnenia" Category="Implementácia" Size="M" Benefit="M" Priorita="Should" Pozn="" placeholders="1" id="bGCzDZgKwJ3272ucESbW-389">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;verticalAlign=middle;" parent="1" vertex="1">
+            <mxGeometry x="280" y="160" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="Register zastupovaní" Category="Samostatný projekt" Size="L" Benefit="L" Priorita="Should" Pozn="" placeholders="1" id="bGCzDZgKwJ3272ucESbW-390">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;verticalAlign=middle;" parent="1" vertex="1">
+            <mxGeometry x="520" y="160" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="Elektronizácia registrov" Category="Samostatný projekt" Size="XL" Benefit="L" Priorita="" Pozn="tu to závisí od registra, tie najpodstatnejšie už sú, ide v zásade o vystavenie vhodného rozhrania" placeholders="1" id="bGCzDZgKwJ3272ucESbW-391">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;verticalAlign=middle;" parent="1" vertex="1">
+            <mxGeometry x="710" y="160" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="Rozšírenie MetaIS pre riadenie, &#xa;aby sa dali sledovať KPI elektronizácie" Category="Vyvolané zmeny" Size="M" Benefit="M" Priorita="Could" Pozn="" placeholders="1" id="bGCzDZgKwJ3272ucESbW-393">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;verticalAlign=middle;" parent="1" vertex="1">
+            <mxGeometry x="820" y="-70" width="240" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="Úprava CSRU, &#xa;aby sa prístup k údajom riadil dynamicky podľa legislatívy" Category="Vyvolané zmeny" Size="M" Benefit="L" Priorita="Should" Pozn="" placeholders="1" id="bGCzDZgKwJ3272ucESbW-394">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;verticalAlign=middle;" parent="1" vertex="1">
+            <mxGeometry x="140" y="-70" width="250" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="Úprava OverSi, &#xa;aby sa prístup k údajom riadil dynamicky podľa legislatívy" Category="Vyvolané zmeny" Size="M" Benefit="XL" Priorita="Should" Pozn="" placeholders="1" id="bGCzDZgKwJ3272ucESbW-395">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;verticalAlign=middle;" parent="1" vertex="1">
+            <mxGeometry x="480" y="-70" width="250" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="Doplniť Slovensko.sk o kompetencie, &#xa;aby sa zlepšilo vyhľadávanie služieb a zobrazenie súvislostí" Category="Vyvolané zmeny" Size="S" Benefit="XL" Priorita="Should" Pozn="" placeholders="1" id="bGCzDZgKwJ3272ucESbW-397">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;verticalAlign=middle;" parent="1" vertex="1">
+            <mxGeometry x="-540" y="-70" width="250" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="Register rozhodnutí" Category="Samostatný projekt" Size="L" Benefit="XL" Priorita="Should" Pozn="" placeholders="1" id="bGCzDZgKwJ3272ucESbW-398">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;verticalAlign=middle;" parent="1" vertex="1">
+            <mxGeometry x="900" y="160" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="Použiť oprávnenia na Slovensko.sk, &#xa;aby sa zmenšil počet potrebných príloh" Category="Vyvolané zmeny" Size="M" Benefit="XL" Priorita="Should" Pozn="" placeholders="1" id="bGCzDZgKwJ3272ucESbW-399">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;verticalAlign=middle;" parent="1" vertex="1">
+            <mxGeometry x="-200" y="-70" width="250" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="bGCzDZgKwJ3272ucESbW-405" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=0;elbow=vertical;endFill=1;rounded=0;" parent="1" source="bGCzDZgKwJ3272ucESbW-383" target="bGCzDZgKwJ3272ucESbW-384" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1170" y="-210" as="sourcePoint" />
+            <mxPoint x="1330" y="-210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O4QvcbaXDJt24IgseKl--9" value="&lt;span&gt;Číselníky, katalógy a registre pre&amp;nbsp;kompetencie&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFFFF;shape=mxgraph.archimate3.application;appType=plateau;strokeColor=#000000;align=center;verticalAlign=top;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-560" y="-600" width="1640" height="200" as="geometry" />
+        </mxCell>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color:#AAAFAF;&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color:#AAAFAF;&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color:#AAAFAF;&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="Katalóg subjektov" Category="Predpoklady" Size="S" Benefit="L" Priorita="Must" Pozn="" placeholders="1" id="O4QvcbaXDJt24IgseKl--10">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;" parent="1" vertex="1">
+            <mxGeometry x="-540" y="-550" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="Vyhlásenie Katalógu subjektov za referenčný" Category="Legislatíva" Size="XS" Benefit="XL" Priorita="Must" Pozn="" placeholders="1" id="O4QvcbaXDJt24IgseKl--11">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;" parent="1" vertex="1">
+            <mxGeometry x="-370" y="-550" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="Katalóg agend" Category="Predpoklady" Size="M" Benefit="L" Priorita="Must" Pozn="do veľkej miery existuje, preto prínos nie je taký veľký" placeholders="1" id="O4QvcbaXDJt24IgseKl--12">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;" parent="1" vertex="1">
+            <mxGeometry x="-180" y="-550" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="Vyhlásenie Katalógu agend za referenčný" Category="Legislatíva" Size="XS" Benefit="XL" Priorita="Must" Pozn="" placeholders="1" id="O4QvcbaXDJt24IgseKl--13">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;" parent="1" vertex="1">
+            <mxGeometry x="-10" y="-550" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="Register služieb VS" Category="Predpoklady" Size="M" Benefit="L" Priorita="Should" Pozn="Popis všetkých služieb umožňuje sledovať informatizáciu a riadiť politiky" placeholders="1" id="O4QvcbaXDJt24IgseKl--14">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;" parent="1" vertex="1">
+            <mxGeometry x="180" y="-550" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="Vyhlásenie Katalógu služieb za referenčný" Category="Legislatíva" Size="XS" Benefit="XL" Priorita="Could" Pozn="" placeholders="1" id="O4QvcbaXDJt24IgseKl--15">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;" parent="1" vertex="1">
+            <mxGeometry x="350" y="-550" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="CMÚ" Category="Predpoklady" Size="L" Benefit="L" Priorita="Must" Pozn="" placeholders="1" id="O4QvcbaXDJt24IgseKl--16">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;" parent="1" vertex="1">
+            <mxGeometry x="540" y="-550" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="Vyhlásenie CMÚ za referenčný" Category="Legislatíva" Size="XS" Benefit="XL" Priorita="Must" Pozn="" placeholders="1" id="O4QvcbaXDJt24IgseKl--17">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;shadow=1;" parent="1" vertex="1">
+            <mxGeometry x="710" y="-550" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%Name%&lt;div&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Size: %Size%&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Benefit: %Benefit%&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(170, 175, 175);&quot;&gt;Priority: %Priorita%&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" Name="Úprava modelu MetaIS" Category="Vyvolané zmeny" Size="S" Benefit="M" Priorita="Could" Pozn="" placeholders="1" id="O4QvcbaXDJt24IgseKl--18">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;strokeColor=#000000;shape=mxgraph.archimate3.application;appType=workPackage;archiType=rounded;" parent="1" vertex="1">
+            <mxGeometry x="900" y="-550" width="160" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

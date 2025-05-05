@@ -1,43 +1,100 @@
 [
-    { "fileName": "01-intro/RKO_koncept.png", "ext":"01-legislativa",
+    { "fileName": "01-koncept/RKO_koncept/RKO_koncept.png", "ext":"01-legislativa",
     "polygon": {"opacity" : 10, "linecolor" : [102,204,255], "points":[[1, "TL"], [1, "TR"], [1, "R", 14, "Y"], [1, "L", 14, "Y"]]}
     },
-    { "fileName": "01-intro/RKO_koncept.png", "ext":"02-rozhodnutia",
+    { "fileName": "01-koncept/RKO_koncept/RKO_koncept.png", "ext":"02-rozhodnutia",
         "rect-area": {"opacity" : 10, "linecolor" : [102,204,255], "corners" : [1, 28]}
     },
-    { "fileName": "01-intro/RKO_koncept.png", "ext":"03-registre",
+    { "fileName": "01-koncept/RKO_koncept/RKO_koncept.png", "ext":"03-registre",
         "polygon": {"opacity" : 10, "linecolor" : [102,204,255], "points":[[1, "TL"], [1, "TR"], [28, "TR"], [29, "TR"], [29, "BR"], [28, "BL"]]}
     },
-    { "fileName": "01-intro/RKO_koncept.png", "ext":"04-RK",
+    { "fileName": "01-koncept/RKO_koncept/RKO_koncept.png", "ext":"04-RK",
         "polygon": {"opacity" : 10, "linecolor" : [102,204,255], "points":[[1, "TL"], [4, "TR"], [4, "BR"], [1, "BR"], [28, "TR"], [29, "TR"], [29, "BR"], [28, "BL"]]}
     },
-    { "fileName": "01-intro/RKO_koncept.png", "ext":"05-RO",
+    { "fileName": "01-koncept/RKO_koncept/RKO_koncept.png", "ext":"05-RO",
         "rect-area": {"opacity" : 10, "linecolor" : [102,204,255], "corners" : [1, 29]}
     },
-    { "fileName": "01-intro/RKO_koncept.png", "ext":"06-RK-prinos1",
+    { "fileName": "01-koncept/RKO_koncept/RKO_koncept.png", "ext":"06-RK-prinos1",
         "polygon": {"opacity" : 10, "linecolor" : [102,204,255], "points":[[1, "TL"], [4, "TR"], [4, "R", 8, "T"], [10, "TR"], [10, "BR"], [8, "B", 8, "X"], [8, "X", 15, "T"], [15, "T", 1, "R"], [28, "BR"], [28, "BL"]]}
     },
-    { "fileName": "01-intro/RKO_koncept.png", "ext":"07-RO-prinos1",
+    { "fileName": "01-koncept/RKO_koncept/RKO_koncept.png", "ext":"07-RO-prinos1",
         "polygon": {"opacity" : 10, "linecolor" : [102,204,255], "points":[[1, "TL"], [4, "TR"], [4, "R", 8, "T"], [10, "TR"], [10, "R", 12, "B"], [12, "B", 17, "R"], [17, "R", 29, "B"], [28, "BL"]]}
     },
-    { "fileName": "01-intro/RKO_koncept.png", "ext":"08-RO-prinos2",
+    { "fileName": "01-koncept/RKO_koncept/RKO_koncept.png", "ext":"08-RO-prinos2",
         "polygon": {"opacity" : 10, "linecolor" : [102,204,255], "points":[[1, "TL"], [4, "TR"], [4, "R", 8, "T"], [10, "T", 44, "R"], [44, "R", 29, "B"], [28, "BL"]]}
     },
 
 
-    { "fileName": "03-koncept/RK_koncept.png", "ext":"01-agenda",
+    { "fileName": "01-koncept/RK_koncept/RK_koncept.png", "ext":"01-agenda",
         "rect-area": {"opacity" : 20, "linecolor" : [102,204,255], "corners" : [1, 13]}
     },
-    { "fileName": "03-koncept/RK_koncept.png", "ext":"02-posobnost",
+    { "fileName": "01-koncept/RK_koncept/RK_koncept.png", "ext":"02-posobnost",
         "polygon": {"opacity" : 20, "linecolor" : [102,204,255], "points":[[7, "L", 1, "T"], [1, "TR"], [13, "BR"], [13, "BL"], [1, "BL"], [1, "B", 7, "L"]]}
     },
-    { "fileName": "03-koncept/RK_koncept.png", "ext":"03-obcan",
+    { "fileName": "01-koncept/RK_koncept/RK_koncept.png", "ext":"03-obcan",
         "polygon": {"opacity" : 20, "linecolor" : [102,204,255], "points":[[7, "L", 1, "T"], [1, "TR"], [13, "BR"], [13, "BL"], [13, "L", 12, "B"], [11, "BL"]]}
     },
-    { "fileName": "03-koncept/RK_koncept.png", "ext":"04-obcan-OVM",
+    { "fileName": "01-koncept/RK_koncept/RK_koncept.png", "ext":"04-obcan-OVM",
         "polygon": {"opacity" : 20, "linecolor" : [102,204,255], "points":[[7, "L", 1, "T"], [1, "TR"], [13, "BR"], [13, "B", 7, "L"]]}
     },
 
+
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"01-01",
+        "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 1]},
+        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [2, 10]}
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"01-02",
+        "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 1]},
+        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [4, 10]}
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"01-03",
+        "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 1]},
+        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [6, 10]}
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"01-04",
+        "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 1]},
+        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [8, 10]}
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"01-05",
+        "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 1]},
+        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [10, 10]}
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"01-06",
+        "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 1]}
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"02-01",
+        "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 11]},
+        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [12, 22]}
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"02-02",
+        "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 11]},
+        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [19, 22]}
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"02-03",
+        "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 11]},
+        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [21, 22]}
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"02-04",
+        "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 11]}
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"03-01",
+        "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 23]},
+        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [24, 28]}
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"03-02",
+        "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 23]}
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"04-01",
+        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [30, 35]}
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"04-02",
+        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [31, 35]}
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"04-03",
+        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [33, 35]}
+    },
+
+    
     { "fileName": "eGov-SK/metamodel_riadenie_AS_IS.png", "ext":"01-vedenie",
         "rect-area": {"opacity" : 20, "linecolor" : [102,204,255], "corners" : [1, 4]}
     },
@@ -49,10 +106,10 @@
     },
 
     { "fileName": "eGov-SK/metamodel_agenda_sluzba.png", "ext":"01-usek",
-        "polygon": {"opacity" : 20, "linecolor" : [102,204,255], "points" : [[1, "TL"], [1, "TR"], [1, "BR"], [3, "T", 1, "B"], [3, "BR"], [2, "BL"]]}
+        "polygon": {"opacity" : 20, "linecolor" : [102,204,255], "points" : [[1, "TL"], [1, "TR"], [1, "BR"], [3, "R", 1, "B"], [3, "BR"], [2, "BL"]]}
     },
     { "fileName": "eGov-SK/metamodel_agenda_sluzba.png", "ext":"02-agenda",
-        "polygon": {"opacity" : 20, "linecolor" : [102,204,255], "points" : [[1, "TL"], [1, "TR"], [1, "BR"], [3, "T", 1, "B"], [11, "BR"], [11, "BL"], [9, "BL"], [7, "BL"]]}
+        "polygon": {"opacity" : 20, "linecolor" : [102,204,255], "points" : [[1, "TL"], [1, "TR"], [1, "BR"], [3, "R", 1, "B"], [11, "BR"], [11, "BL"], [9, "BL"], [7, "BL"]]}
     },
     { "fileName": "eGov-SK/metamodel_agenda_sluzba.png", "ext":"03-zivot_situacia",
         "polygon": {"opacity" : 20, "linecolor" : [102,204,255], "points" : [[1, "TL"], [1, "TR"], [6, "BR"], [3, "BR"], [11, "BR"], [11, "BL"], [9, "BL"], [7, "BL"]]}
