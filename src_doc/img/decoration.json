@@ -1,0 +1,120 @@
+[
+    { "fileName": "01-koncept/RKO_koncept/RKO_koncept.png", "ext":"01-legislativa", "opacity" : 10,
+        "areas": [{"points":[[1, "TL"], [1, "TR"], [1, "R", 14, "Y"], [1, "L", 14, "Y"]]}]
+    },
+    { "fileName": "01-koncept/RKO_koncept/RKO_koncept.png", "ext":"02-rozhodnutia", "opacity" : 10,
+        "areas": [{"points" : [1, 28]}]
+    },
+    { "fileName": "01-koncept/RKO_koncept/RKO_koncept.png", "ext":"03-registre", "opacity" : 10,
+        "areas": [{"points":[[1, "TL"], [1, "TR"], [28, "TR"], [29, "TR"], [29, "BR"], [28, "BL"]]}]
+    },
+    { "fileName": "01-koncept/RKO_koncept/RKO_koncept.png", "ext":"04-RK", "opacity" : 10,
+        "areas": [{"points":[[1, "TL"], [4, "TR"], [4, "BR"], [1, "BR"], [28, "TR"], [29, "TR"], [29, "BR"], [28, "BL"]]}]
+    },
+    { "fileName": "01-koncept/RKO_koncept/RKO_koncept.png", "ext":"05-RO", "opacity" : 10,
+        "areas": [{"points" : [1, 29]}]
+    },
+    { "fileName": "01-koncept/RKO_koncept/RKO_koncept.png", "ext":"06-RK-prinos1", "opacity" : 10,
+        "areas": [{"points":[[1, "TL"], [4, "TR"], [4, "R", 8, "T"], [10, "TR"], [10, "BR"], [8, "B", 8, "X"], [8, "X", 15, "T"], [15, "T", 1, "R"], [28, "BR"], [28, "BL"]]}]
+    },
+    { "fileName": "01-koncept/RKO_koncept/RKO_koncept.png", "ext":"07-RO-prinos1", "opacity" : 10,
+        "areas": [{"points":[[1, "TL"], [4, "TR"], [4, "R", 8, "T"], [10, "TR"], [10, "R", 12, "B"], [12, "B", 17, "R"], [17, "R", 29, "B"], [28, "BL"]]}]
+    },
+    { "fileName": "01-koncept/RKO_koncept/RKO_koncept.png", "ext":"08-RO-prinos2", "opacity" : 10,
+        "areas": [{"points":[[1, "TL"], [4, "TR"], [4, "R", 8, "T"], [10, "T", 44, "R"], [44, "R", 29, "B"], [28, "BL"]]}]
+    },
+
+
+    { "fileName": "01-koncept/RK_koncept/RK_koncept.png", "ext":"01-agenda", "opacity" : 20,
+        "areas": [{"points" : [1, 13]}]
+    },
+    { "fileName": "01-koncept/RK_koncept/RK_koncept.png", "ext":"02-posobnost", "opacity" : 20,
+        "areas": [{"points":[[7, "L", 1, "T"], [1, "TR"], [13, "BR"], [13, "BL"], [1, "BL"], [1, "B", 7, "L"]]}]
+    },
+    { "fileName": "01-koncept/RK_koncept/RK_koncept.png", "ext":"03-obcan", "opacity" : 20,
+        "areas": [{"points":[[7, "L", 1, "T"], [1, "TR"], [13, "BR"], [13, "BL"], [13, "L", 12, "B"], [11, "BL"]]}]
+    },
+    { "fileName": "01-koncept/RK_koncept/RK_koncept.png", "ext":"04-obcan-OVM", "opacity" : 10,
+        "areas": [{"points":[[7, "L", 1, "T"], [1, "TR"], [13, "BR"], [13, "B", 7, "L"]]}]
+    },
+
+
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"01-01", "opacity" : 20,
+        "areas"  : [{"points" : [1, 1]}],
+        "rectangles" : [{"linecolor" : [102,204,255], "fillcolor" : [0,0,0], "points" : [2, 6]}]
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"01-02", "opacity" : 20,
+        "areas"  : [{"points" : [1, 1]}],
+        "rectangles" : [{"linecolor" : [102,204,255], "fillcolor" : [0,0,0], "points" : [3, 6]}]
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"01-03", "opacity" : 20,
+        "areas"  : [{"points" : [1, 1]}],
+        "rectangles" : [{"linecolor" : [102,204,255], "fillcolor" : [0,0,0], "points" : [4, 6]}]
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"01-04", "opacity" : 20,
+        "areas"  : [{"points" : [1, 1]}],
+        "rectangles" : [{"linecolor" : [102,204,255], "fillcolor" : [0,0,0], "points" : [5, 6]}]
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"01-05", "opacity" : 20,
+        "areas"  : [{"points" : [1, 1]}],
+        "rectangles" : [{"linecolor" : [102,204,255], "fillcolor" : [0,0,0], "points" : [6, 6]}]
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"01-06", "opacity" : 20,
+        "areas"  : [{"points" : [1, 1]}]
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"02-01", "opacity" : 20,
+        "areas"  : [{"points" : [1, 15]}],
+        "rectangles" : [{"linecolor" : [102,204,255], "fillcolor" : [0,0,0], "points" : [17, 19]}]
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"02-02", "opacity" : 20,
+        "areas"  : [{"points" : [1, 15]}],
+        "rectangles" : [{"linecolor" : [102,204,255], "fillcolor" : [0,0,0], "points" : [[17, "TR"], [19, "TR"], [19, "BR"], [17, "BR"]]}]
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"02-03", "opacity" : 20,
+        "areas"  : [{"points" : [1, 15]}],
+        "rectangles" : [{"linecolor" : [102,204,255], "fillcolor" : [0,0,0], "points" : [[18, "TR"], [19, "TR"], [19, "BR"], [18, "BR"]]}]
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"02-04", "opacity" : 20,
+        "areas"  : [{"points" : [1, 15]}]
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"03-01", "opacity" : 20,
+        "areas"  : [{"points" : [1, 28]}],
+        "rectangles" : [{"linecolor" : [102,204,255], "fillcolor" : [0,0,0], "points" : [29, 33]}]
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"03-02", "opacity" : 20,
+        "areas"  : [{"points" : [1, 28]}]
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"04-01",
+        "rectangles" : [{"linecolor" : [102,204,255], "fillcolor" : [0,0,0], "points" : [35, 39]}]
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"04-02",
+        "rectangles" : [{"linecolor" : [102,204,255], "fillcolor" : [0,0,0], "points" : [36, 39]}]
+    },
+    { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"04-03",
+        "rectangles" : [{"linecolor" : [102,204,255], "fillcolor" : [0,0,0], "points" : [37, 39]}]
+    },
+
+    
+    { "fileName": "eGov-SK/metamodel_riadenie_AS_IS.png", "ext":"01-vedenie", "opacity" : 10,
+        "areas": [{"points" : [1, 4]}]
+    },
+    { "fileName": "eGov-SK/metamodel_riadenie_AS_IS.png", "ext":"02-riadenie", "opacity" : 10,
+        "areas": [{"points" : [1, 7]}]
+    },
+    { "fileName": "eGov-SK/metamodel_riadenie_AS_IS.png", "ext":"03-sluzby", "opacity" : 10,
+        "areas": [{"points" : [[1, "TL"], [1, "TR"], [7, "BR"], [9, "R", 7, "B"], [9, "BR"], [8, "BL"]]}]
+    },
+
+    { "fileName": "eGov-SK/metamodel_agenda_sluzba.png", "ext":"01-usek", "opacity" : 10,
+        "areas": [{"points" : [[1, "TL"], [1, "TR"], [1, "BR"], [3, "R", 1, "B"], [3, "BR"], [2, "BL"]]}]
+    },
+    { "fileName": "eGov-SK/metamodel_agenda_sluzba.png", "ext":"02-agenda", "opacity" : 10,
+        "areas": [{"points" : [[1, "TL"], [1, "TR"], [1, "BR"], [3, "R", 1, "B"], [11, "BR"], [11, "BL"], [9, "BL"], [7, "BL"]]}]
+    },
+    { "fileName": "eGov-SK/metamodel_agenda_sluzba.png", "ext":"03-zivot_situacia", "opacity" : 10,
+        "areas": [{"points" : [[1, "TL"], [1, "TR"], [6, "BR"], [3, "BR"], [11, "BR"], [11, "BL"], [9, "BL"], [7, "BL"]]}]
+    },
+    { "fileName": "eGov-SK/metamodel_agenda_sluzba.png", "ext":"04-sluzba", "opacity" : 10,
+        "areas": [{"points" : [[1, "TL"], [1, "TR"], [8, "BR"], [9, "BR"], [11, "BR"], [11, "BL"], [9, "BL"], [7, "BL"]]}]
+    }
+]

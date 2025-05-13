@@ -41,57 +41,57 @@
 
     { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"01-01",
         "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 1]},
-        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [2, 10]}
+        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [2, 6]}
     },
     { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"01-02",
         "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 1]},
-        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [4, 10]}
+        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [3, 6]}
     },
     { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"01-03",
         "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 1]},
-        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [6, 10]}
+        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [4, 6]}
     },
     { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"01-04",
         "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 1]},
-        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [8, 10]}
+        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [5, 6]}
     },
     { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"01-05",
         "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 1]},
-        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [10, 10]}
+        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [6, 6]}
     },
     { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"01-06",
         "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 1]}
     },
     { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"02-01",
-        "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 11]},
-        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [12, 22]}
+        "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 15]},
+        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [17, 19]}
     },
     { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"02-02",
-        "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 11]},
-        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [19, 22]}
+        "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 15]},
+        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "points" : [[17, "TR"], [19, "TR"], [19, "BR"], [17, "BR"]]}
     },
     { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"02-03",
-        "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 11]},
-        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [21, 22]}
+        "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 15]},
+        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "points" : [[18, "TR"], [19, "TR"], [19, "BR"], [18, "BR"]]}
     },
     { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"02-04",
-        "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 11]}
+        "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 15]}
     },
     { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"03-01",
-        "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 23]},
-        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [24, 28]}
+        "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 28]},
+        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [29, 33]}
     },
     { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"03-02",
-        "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 23]}
+        "rect-area"  : {"opacity" : 20,  "linecolor" : [102,204,255], "corners" : [1, 28]}
     },
     { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"04-01",
-        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [30, 35]}
+        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [35, 39]}
     },
     { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"04-02",
-        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [31, 35]}
+        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [36, 39]}
     },
     { "fileName": "01-koncept/Roadmapa/Roadmapa.png", "ext":"04-03",
-        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [33, 35]}
+        "rect-insert": {"opacity" : 100, "linecolor" : [102,204,255], "fillcolor" : [0,0,0], "corners" : [37, 39]}
     },
 
     
