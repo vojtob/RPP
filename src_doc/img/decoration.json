@@ -25,14 +25,8 @@
     },
 
 
-    { "fileName": "01-koncept/RK_koncept/RK_koncept.png", "ext":"01-agenda", "opacity" : 20,
-        "areas": [{"points" : [1, 13]}]
-    },
     { "fileName": "01-koncept/RK_koncept/RK_koncept.png", "ext":"02-posobnost", "opacity" : 20,
-        "areas": [{"points":[[7, "L", 1, "T"], [1, "TR"], [13, "BR"], [13, "BL"], [1, "BL"], [1, "B", 7, "L"]]}]
-    },
-    { "fileName": "01-koncept/RK_koncept/RK_koncept.png", "ext":"03-obcan", "opacity" : 20,
-        "areas": [{"points":[[7, "L", 1, "T"], [1, "TR"], [13, "BR"], [13, "BL"], [13, "L", 12, "B"], [11, "BL"]]}]
+        "areas": [{"points":[[7, "L", 1, "T"], [1, "TR"], [1, "BR"], [1, "B", 7, "L"]]}]
     },
     { "fileName": "01-koncept/RK_koncept/RK_koncept.png", "ext":"04-obcan-OVM", "opacity" : 10,
         "areas": [{"points":[[7, "L", 1, "T"], [1, "TR"], [13, "BR"], [13, "B", 7, "L"]]}]

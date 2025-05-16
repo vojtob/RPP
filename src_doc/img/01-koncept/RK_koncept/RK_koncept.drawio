@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.15 Chrome/134.0.6998.205 Electron/35.2.1 Safari/537.36" version="26.2.15">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2466" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="40" y="1000" width="400" height="240" as="geometry" />
         </mxCell>
         <mxCell id="QYbwdpBH74K5H6EEjUDd-35" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Kompetencia&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;b&gt;Prístup&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;OVM v&lt;/span&gt;&lt;span style=&quot;background-color: transparent; text-align: center;&quot;&gt;&amp;nbsp;d&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;anej roli má možňosť využívať údaje alebo žiadať o úkony v tejto agende&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFC800;shape=mxgraph.archimate3.application;appType=role;archiType=square;strokeColor=#000000;verticalAlign=top;align=center;spacingLeft=4;spacingRight=4;spacing=2;fontFamily=Helvetica;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-150" y="1400" width="160" height="120" as="geometry" />
+          <mxGeometry x="-160" y="1400" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pZyWZQW2qTMGdB6Wqupj-0" value="&lt;b&gt;Rola&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;definuje s jemnejšou granularitou pôsobnosť a&amp;nbsp;oprávnenia&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFF323;shape=mxgraph.archimate3.application;appType=role;archiType=square;strokeColor=#000000;verticalAlign=top;align=center;spacingLeft=4;spacingRight=4;spacing=2;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="260" y="1140" width="160" height="80" as="geometry" />
@@ -119,7 +119,7 @@
           <mxGeometry x="-360" y="1280" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4UiOPjHDvXgqPQIrx2kC-1" value="&lt;div&gt;&lt;b&gt;Životná situácia&lt;/b&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFF323;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;strokeColor=#000000;fontStyle=0;container=0;verticalAlign=top;spacing=5;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-150" y="1280" width="160" height="80" as="geometry" />
+          <mxGeometry x="-160" y="1280" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4UiOPjHDvXgqPQIrx2kC-2" value="" style="endArrow=block;html=1;endFill=1;startArrow=oval;startFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4UiOPjHDvXgqPQIrx2kC-0" target="4UiOPjHDvXgqPQIrx2kC-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
